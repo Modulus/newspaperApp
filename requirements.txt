@@ -20,7 +20,7 @@ olefile==0.44
 Pillow==10.3.0
 python-dateutil==2.6.1
 PyYAML==5.4
-requests==2.18.4
+requests==2.32.4
 requests-file==1.4.2
 six==1.11.0
 tldextract==2.1.0
