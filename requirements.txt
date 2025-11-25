@@ -15,7 +15,7 @@ Jinja2==2.11.3
 lxml==4.1.0
 MarkupSafe==1.0
 newspaper3k==0.2.5
-nltk==3.4.5
+nltk==3.9
 olefile==0.44
 Pillow==10.3.0
 python-dateutil==2.6.1
